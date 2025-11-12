@@ -11,7 +11,7 @@
     "watch:scss": "sass --watch css:css",
     "watch:all": "run-p watch:scss lite"
   },
-  "author": "Your Name",
+  "author": "Chloe Zeng",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0",
